@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hey there! 🎉
 
 <!--
 **BenoitGaudieri/BenoitGaudieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👨‍💻 Code enthusiast. Web development, web design, backend. JS/Python/PHP/Swift.
