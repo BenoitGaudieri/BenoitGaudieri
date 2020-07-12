@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 🕹 Game development aficionado
 
-### 🪐 To boldly go where nobody has gone before ⭐
+### 🪐 To boldly go where no one has gone before ⭐
