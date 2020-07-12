@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 ⚒ jQuery/Vue/React/Laravel
 
-👀 Always looking for new things to learn
+👀 Always looking for new things to learn.
 
-🕹 Game development aficionado
+🕹 Game development aficionado.
 
 ### 🪐 To boldly go where no one has gone before ⭐
