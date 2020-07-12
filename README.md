@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🕸 Web development, web design, backend. 
 
-📚 JS/Python/PHP/Swift.
+📚 JS/Python/PHP/Swift
 
 ⚒ jQuery/Vue/React/Laravel
 
