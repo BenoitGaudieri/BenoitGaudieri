@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👨‍💻 Code enthusiast. Web development, web design, backend. 
+👨‍💻 Code enthusiast. 
+
+🕸 Web development, web design, backend. 
 
 📚 JS/Python/PHP/Swift.
 
