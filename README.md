@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 
 ⚒ jQuery/Vue/React/Laravel
 
-🌱 Always eager for new things to learn
+👓 Always looking for new things to learn
+
+👀 Always looking for new things to learn
 
 🕹 Game development aficionado
 
