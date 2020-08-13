@@ -29,10 +29,18 @@ Here are some ideas to get you started:
 
 ### 🪐 To boldly go where no one has gone before ⭐
 <!--
-[![Anurag's github stats](https://github-readme-stats-swart-psi.vercel.app/api?username=BenoitGaudieri&theme=dracula&show_icons=true&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 ## Stats
-[![Top Langs](https://github-readme-stats-swart-psi.vercel.app/api/top-langs/?username=BenoitGaudieri&theme=dracula)](https://github.com/BenoitGaudieri/github-readme-stats)
 
-NOTE: These are the top languages most used on my github. This is not equivalent to my skill level.
+-->
+
+<details>
+  <summary> <b> My Github Statistics📊 </b> <i>(click to expand!)</i> </summary>
+  <br />
+  
+  [![Anurag's github stats](https://github-readme-stats-swart-psi.vercel.app/api?username=BenoitGaudieri&theme=dracula&show_icons=true&hide=contribs,issues)](https://github.com/BenoitGaudieri/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats-swart-psi.vercel.app/api/top-langs/?username=BenoitGaudieri&theme=dracula)](https://github.com/BenoitGaudieri/github-readme-stats)
+
+  NOTE: These are the top languages most used on my github. This is not equivalent to my skill level.
+</details>
