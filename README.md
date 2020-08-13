@@ -28,11 +28,8 @@ Here are some ideas to get you started:
 🕹 Game development aficionado
 
 ### 🪐 To boldly go where no one has gone before ⭐
-<!--
 
 ## Stats
-
--->
 
 <details>
   <summary> <b> My Github Statistics📊 </b> <i>(click to expand!)</i> </summary>
