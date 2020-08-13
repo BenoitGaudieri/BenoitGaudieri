@@ -23,9 +23,9 @@
   
   [![Anurag's github stats](https://github-readme-stats-swart-psi.vercel.app/api?username=BenoitGaudieri&theme=dracula&show_icons=true&hide=contribs,issues)](https://github.com/BenoitGaudieri/github-readme-stats)
   
-  [![Top Langs](https://github-readme-stats-swart-psi.vercel.app/api/top-langs/?username=BenoitGaudieri&theme=dracula)](https://github.com/BenoitGaudieri/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-swart-psi.vercel.app/api/top-langs/?username=BenoitGaudieri&theme=dracula&layout=compact)](https://github.com/BenoitGaudieri/github-readme-stats)
 
-  NOTE: These are the top languages most used on my github. This is not equivalent to my skill level.
+  NOTE: These are simply my most used languages on github, they are not equivalent to my skill level.
 </details>
 
 <!-- 
