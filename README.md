@@ -18,7 +18,7 @@
 ## Stats
 
 <details>
-  <summary> <b> My Github Statistics📊 </b> <i>(click to expand!)</i> </summary>
+  <summary> <b> My Github Statistics 📊 </b> <i>(click to expand!)</i> </summary>
   <br />
   
   [![Anurag's github stats](https://github-readme-stats-swart-psi.vercel.app/api?username=BenoitGaudieri&theme=dracula&show_icons=true&hide=contribs,issues)](https://github.com/BenoitGaudieri/github-readme-stats)
