@@ -7,7 +7,7 @@
 
 📚 JS/PHP/Python/Swift 
 
-⚒ jQuery/Vue/React/Laravel
+⚒ jQuery/React/Angular/Vue/Laravel
 
 👀 Always looking for new things to learn
 
