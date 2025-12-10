@@ -1,35 +1,24 @@
-#  Hey there! I'm Ben 👋
+# Hey there! I'm Ben 👋
 
+## Full-Stack Software Engineer | AI Enthusiast
 
-👨‍💻 Code enthusiast
+I've been building web and mobile applications for 5+ years, with a strong focus on integrating AI into real-world products. I started experimenting with LLMs back when GPT-3 was just emerging, and I've been hooked ever since.
 
-🕸 Web development, web design, backend
+### 🛠️ Tech Stack
+**Frontend:** React, Angular, Next.js, React Native, Tailwind CSS  
+**Backend:** Node.js, Python, Laravel, PHP  
+**AI/ML:** OpenAI, Claude, Gemini, DeepSeek, RAG pipelines, Stable Diffusion  
+**Data:** MySQL, PostgreSQL, MongoDB, Vector DBs (Supabase)
 
-📚 JS/PHP/Python/Swift 
+### 🚀 What I'm Working On
+- Building AI-powered applications with RAG architectures
+- Exploring generative AI for both text and images
+- Creating seamless full-stack experiences from database to UI
 
-⚒ jQuery/React/Angular/Vue/Laravel
+### 🎯 Philosophy
+I believe in learning by doing. Whether it's a new framework, an emerging AI model, or a challenging architectural problem—I dive in and build something real.
 
-👀 Always looking for new things to learn
+---
 
-🕹 Game development aficionado
-
-### 🪐 To boldly go where no one has gone before ⭐
-
-## Stats
-
-<details>
-  <summary> <b> My Github Statistics 📊 </b> <i>(click to expand!)</i> </summary>
-  <br />
-  
-  [![Anurag's github stats](https://github-readme-stats-swart-psi.vercel.app/api?username=BenoitGaudieri&theme=dracula&show_icons=true&hide=contribs,issues)](https://github.com/BenoitGaudieri/github-readme-stats)
-  
-  [![Top Langs](https://github-readme-stats-swart-psi.vercel.app/api/top-langs/?username=BenoitGaudieri&theme=dracula&layout=compact)](https://github.com/BenoitGaudieri/github-readme-stats)
-
-  NOTE: These are simply my most used languages on github, they are not equivalent to my skill level.
-</details>
-
-<!-- 
 ## Contacts
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0084ff?logo=LinkedIn)](https://www.linkedin.com/in/benoit-gaudieri/) 
--->
+📫 Let's connect: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0084ff?logo=LinkedIn)](https://www.linkedin.com/in/benoit-gaudieri/) 
