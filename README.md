@@ -7,7 +7,7 @@ I've been building web and mobile applications for 5+ years, with a strong focus
 ### 🛠️ Tech Stack
 **Frontend:** React, Angular, Next.js, React Native, Tailwind CSS  
 **Backend:** Node.js, Python, Laravel, PHP  
-**AI/ML:** OpenAI, Claude, Gemini, DeepSeek, RAG pipelines, Stable Diffusion  
+**AI/ML:** LangChain, LlamaIndex, OpenAI, Anthropic Claude, Google Gemini, DeepSeek, RAG pipelines, MCP, Stable Diffusion, Vector DBs
 **Data:** MySQL, PostgreSQL, MongoDB, Vector DBs (Supabase)
 
 ### 🚀 What I'm Working On
