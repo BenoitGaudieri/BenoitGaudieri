@@ -11,7 +11,7 @@ I've been building web and mobile applications for 5+ years, with a strong focus
 **Data:** MySQL, PostgreSQL, MongoDB, Vector DBs (Supabase)
 
 ### 🚀 What I'm Working On
-- Building AI-powered applications with RAG architectures
+- Building local-first RAG pipelines with LangChain and Ollama
 - Exploring generative AI for both text and images
 - Creating seamless full-stack experiences from database to UI
 
