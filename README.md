@@ -20,4 +20,5 @@ I believe in learning by doing. Whether it's a new framework, an emerging AI mod
 
 ---
 
-📫 Let's connect: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0084ff?logo=LinkedIn)](https://www.linkedin.com/in/benoit-gaudieri/) 
+📫 Let's connect: 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0084ff?logo=LinkedIn)](https://www.linkedin.com/in/benoit-gaudieri/) 
